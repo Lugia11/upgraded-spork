@@ -1,4 +1,4 @@
-"print" = "Hello-world"
-"Hello-world" = "print"
+"print" = "Hello_world"
+"Hello_world" = "print"
 
-Hello-world = "print"
+Hello_world = "print"
